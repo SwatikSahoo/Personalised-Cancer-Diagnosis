@@ -1,1 +1,2 @@
 # Personalised-Cancer-Diagnosis
+Classification of genetic variations/mutations based on evidence from text-based clinical literature. It is a multi class classification problem in which a genetic mutation can be classified into nine different classes. Multi class logloss performance metric is used and log-loss is found for different Machine Learning algorithm. So the probability of each data point is to be predicted which belongs to each of the nine classes.
